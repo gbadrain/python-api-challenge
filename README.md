@@ -3,5 +3,6 @@ I would like to acknowledge the following assistance: AI Assistance: I used Micr
 
 MODULE 6 ACTION ITEMS*: Emailed by Camille Bolos 'Helpful Resources'
 Took help from BCS , more so about VacationPy
+On Jan 20, I connnected with BCS re: pushing of files into Github, as there were merging conflicts which was finally resolved . It was a learning curve.
 Slack Resources
 Various YouTube Videos
